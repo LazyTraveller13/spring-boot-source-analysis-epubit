@@ -1,3 +1,7 @@
+com.linkedbear.springboot.assemble.d_spi.bean.DemoDao=\
+  com.linkedbear.springboot.assemble.d_spi.bean.DemoMySQLDaoImpl,\
+  com.linkedbear.springboot.assemble.d_spi.bean.DemoOracleDaoImpl
+
 com.linkedbear.spring.configuration.z_spi.bean.DemoDao=\
   com.linkedbear.spring.configuration.z_spi.bean.DemoMySQLDaoImpl,\
   com.linkedbear.spring.configuration.z_spi.bean.DemoOracleDaoImpl

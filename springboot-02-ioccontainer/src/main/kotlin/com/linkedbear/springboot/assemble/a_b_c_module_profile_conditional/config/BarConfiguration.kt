@@ -1,7 +1,7 @@
-package com.linkedbear.springboot.assemble.a_module.config
+package com.linkedbear.springboot.assemble.a_b_c_module_profile_conditional.config
 
-import com.linkedbear.springboot.assemble.a_module.component.Bar
-import com.linkedbear.springboot.assemble.a_module.condition.ExistBossCondition
+import com.linkedbear.springboot.assemble.a_b_c_module_profile_conditional.component.Bar
+import com.linkedbear.springboot.assemble.a_b_c_module_profile_conditional.condition.ExistBossCondition
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Conditional
 import org.springframework.context.annotation.Configuration

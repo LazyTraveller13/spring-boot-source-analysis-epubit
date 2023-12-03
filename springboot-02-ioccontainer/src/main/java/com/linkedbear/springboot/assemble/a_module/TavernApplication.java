@@ -1,6 +1,6 @@
-package com.linkedbear.springboot.assemble.a_module;
+package com.linkedbear.springboot.assemble.a_b_c_module_profile_conditional;
 
-import com.linkedbear.springboot.assemble.a_module.config.TavernConfiguration;
+import com.linkedbear.springboot.assemble.a_b_c_module_profile_conditional.config.TavernConfiguration;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 import java.util.stream.Stream;

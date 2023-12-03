@@ -1,10 +1,10 @@
-package com.linkedbear.springboot.assemble.a_module.anno;
+package com.linkedbear.springboot.assemble.a_b_c_module_profile_conditional.anno;
 
-import com.linkedbear.springboot.assemble.a_module.component.Boss;
-import com.linkedbear.springboot.assemble.a_module.config.BartenderConfiguration;
-import com.linkedbear.springboot.assemble.a_module.registrar.WaiterRegistrar;
-import com.linkedbear.springboot.assemble.a_module.selector.BarImportSelector;
-import com.linkedbear.springboot.assemble.a_module.selector.WaiterDeferredImportSelector;
+import com.linkedbear.springboot.assemble.a_b_c_module_profile_conditional.component.Boss;
+import com.linkedbear.springboot.assemble.a_b_c_module_profile_conditional.config.BartenderConfiguration;
+import com.linkedbear.springboot.assemble.a_b_c_module_profile_conditional.registrar.WaiterRegistrar;
+import com.linkedbear.springboot.assemble.a_b_c_module_profile_conditional.selector.BarImportSelector;
+import com.linkedbear.springboot.assemble.a_b_c_module_profile_conditional.selector.WaiterDeferredImportSelector;
 import org.springframework.context.annotation.Import;
 
 import java.lang.annotation.Documented;

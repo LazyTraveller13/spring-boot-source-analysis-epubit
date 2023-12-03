@@ -1,6 +1,6 @@
-package com.linkedbear.springboot.assemble.a_module.registrar
+package com.linkedbear.springboot.assemble.a_b_c_module_profile_conditional.registrar
 
-import com.linkedbear.springboot.assemble.a_module.component.Waiter
+import com.linkedbear.springboot.assemble.a_b_c_module_profile_conditional.component.Waiter
 import org.springframework.beans.factory.support.BeanDefinitionRegistry
 import org.springframework.beans.factory.support.RootBeanDefinition
 import org.springframework.context.annotation.ImportBeanDefinitionRegistrar

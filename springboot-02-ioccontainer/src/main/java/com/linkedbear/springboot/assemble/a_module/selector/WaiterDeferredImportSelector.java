@@ -1,6 +1,6 @@
-package com.linkedbear.springboot.assemble.a_module.selector;
+package com.linkedbear.springboot.assemble.a_b_c_module_profile_conditional.selector;
 
-import com.linkedbear.springboot.assemble.a_module.component.Waiter;
+import com.linkedbear.springboot.assemble.a_b_c_module_profile_conditional.component.Waiter;
 import org.springframework.context.annotation.DeferredImportSelector;
 import org.springframework.core.type.AnnotationMetadata;
 

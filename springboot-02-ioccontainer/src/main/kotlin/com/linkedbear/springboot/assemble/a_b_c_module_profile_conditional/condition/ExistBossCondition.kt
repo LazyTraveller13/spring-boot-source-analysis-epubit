@@ -1,6 +1,6 @@
-package com.linkedbear.springboot.assemble.a_module.condition
+package com.linkedbear.springboot.assemble.a_b_c_module_profile_conditional.condition
 
-import com.linkedbear.springboot.assemble.a_module.component.Boss
+import com.linkedbear.springboot.assemble.a_b_c_module_profile_conditional.component.Boss
 import org.springframework.context.annotation.Condition
 import org.springframework.context.annotation.ConditionContext
 import org.springframework.core.type.AnnotatedTypeMetadata

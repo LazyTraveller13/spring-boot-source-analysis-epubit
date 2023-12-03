@@ -1,7 +1,7 @@
-package com.linkedbear.springboot.assemble.a_module.selector
+package com.linkedbear.springboot.assemble.a_b_c_module_profile_conditional.selector
 
-import com.linkedbear.springboot.assemble.a_module.component.Bar
-import com.linkedbear.springboot.assemble.a_module.config.BarConfiguration
+import com.linkedbear.springboot.assemble.a_b_c_module_profile_conditional.component.Bar
+import com.linkedbear.springboot.assemble.a_b_c_module_profile_conditional.config.BarConfiguration
 import org.springframework.context.annotation.ImportSelector
 import org.springframework.core.type.AnnotationMetadata
 
